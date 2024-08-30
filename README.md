@@ -7,7 +7,6 @@ A simple weather application built with Svelte and Tailwind CSS. This app fetche
 
 ![Weather App Screenshot](screenshot.png)
 
-*Replace the above `screenshot.png` with the actual path of your screenshot image in the repository.*
 
 ## Getting Started
 
